@@ -1,0 +1,16 @@
+C:\Users\Kamil\source\repos\c-sharp\Refreshing\bin\Debug\net5.0\Refreshing.exe
+C:\Users\Kamil\source\repos\c-sharp\Refreshing\bin\Debug\net5.0\Refreshing.deps.json
+C:\Users\Kamil\source\repos\c-sharp\Refreshing\bin\Debug\net5.0\Refreshing.runtimeconfig.json
+C:\Users\Kamil\source\repos\c-sharp\Refreshing\bin\Debug\net5.0\Refreshing.runtimeconfig.dev.json
+C:\Users\Kamil\source\repos\c-sharp\Refreshing\bin\Debug\net5.0\Refreshing.dll
+C:\Users\Kamil\source\repos\c-sharp\Refreshing\bin\Debug\net5.0\ref\Refreshing.dll
+C:\Users\Kamil\source\repos\c-sharp\Refreshing\bin\Debug\net5.0\Refreshing.pdb
+C:\Users\Kamil\source\repos\c-sharp\Refreshing\obj\Debug\net5.0\Refreshing.csproj.AssemblyReference.cache
+C:\Users\Kamil\source\repos\c-sharp\Refreshing\obj\Debug\net5.0\Refreshing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\source\repos\c-sharp\Refreshing\obj\Debug\net5.0\Refreshing.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\c-sharp\Refreshing\obj\Debug\net5.0\Refreshing.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\c-sharp\Refreshing\obj\Debug\net5.0\Refreshing.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\c-sharp\Refreshing\obj\Debug\net5.0\Refreshing.dll
+C:\Users\Kamil\source\repos\c-sharp\Refreshing\obj\Debug\net5.0\ref\Refreshing.dll
+C:\Users\Kamil\source\repos\c-sharp\Refreshing\obj\Debug\net5.0\Refreshing.pdb
+C:\Users\Kamil\source\repos\c-sharp\Refreshing\obj\Debug\net5.0\Refreshing.genruntimeconfig.cache
